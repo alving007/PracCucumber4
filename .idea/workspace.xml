@@ -5,20 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee5039ed-3c3e-4396-a680-0e87e14b21e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CompanyName/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/CompanyName/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RoughWorks/SeleniumPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/Login/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/Profile/profile.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/Signup/signup.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Login_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Profile_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Signup_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Login_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Profile_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Signup_steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CompanyName/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/CompanyName/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
